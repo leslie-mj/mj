@@ -7,3 +7,7 @@
 
 # Local History for Visual Studio Code
 .history/
+
+.DS_Store
+node_modules
+dist
